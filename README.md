@@ -63,13 +63,16 @@ Make sure MongoDB is running and contains a collection transactions in the credi
 
 Install dependencies:
 
-bash
+
 Copy
 Edit
 pip install pyspark pandas pymongo
+
+
+
 Run the script:
 
-bash
+
 Copy
 Edit
 python model_training.py
