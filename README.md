@@ -65,7 +65,8 @@ Install dependencies:
 
 
 Copy
-Edit
+
+
 pip install pyspark pandas pymongo
 
 
@@ -74,5 +75,6 @@ Run the script:
 
 
 Copy
-Edit
+
+
 python model_training.py
